@@ -1,0 +1,7 @@
+D:\Eğitim\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.exe.config
+D:\Eğitim\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.exe
+D:\Eğitim\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.pdb
+D:\Eğitim\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.csproj.AssemblyReference.cache
+D:\Eğitim\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.csproj.CoreCompileInputs.cache
+D:\Eğitim\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.exe
+D:\Eğitim\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.pdb
